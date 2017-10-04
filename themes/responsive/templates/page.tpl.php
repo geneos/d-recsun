@@ -211,6 +211,6 @@
 <?php endif; ?>
   
 <div id="copyright" class="container">
- <div class="credit"> <?php print $site_name; ?> <br/> <?php print t('Desarrollado por '); ?> <a href="http://www.geneos.comar" target="_blank">GENEOS Cooperativa de Software Libre</a><?php print t(' utilizando '); ?> <a href="http://www.drupal.com" target="_blank">Drupal</a><?php print t(' bajo licencia '); ?> <a href="https://www.drupal.org/licensing/faq#q1" target="_blank">GNU</a></div> 
+ <div class="credit"> <?php print $site_name; ?> <br/> <?php print t('Red organizada por '); ?> <a href="http://sabato.unicen.edu.ar" target="_blank">Escuela Nacional Ernesto Sabato</a><?php print t(' - '); ?> <a href="http://www.unicen.edu.ar" target="_blank">Universidad Nacional del Centro de la Provincia de Buenos Aires</a></div> 
   <div class="clear"></div>
 </div>
